@@ -1,9 +1,7 @@
 # python-agentic-content-creator
 An AI-powered content creation assistant for Instagram that automates research, copywriting, and image generation, controlled via a Telegram bot.
 
-# InstAgent: An AI-Powered Content Creation Assistant
 
-An advanced AI assistant that automates the entire creative workflow for a niche Instagram page. It fetches relevant news, uses LLMs to generate insightful captions and content strategies, and creates unique post images, all controlled via a simple Telegram bot.
 
 ## The Problem
 
