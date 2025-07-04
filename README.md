@@ -25,7 +25,6 @@ InstAgent solves this problem by acting as an autonomous creative assistant. It 
 
 InstAgent is built with a modular, layered architecture. A central **Orchestrator** (`main.py`) directs a team of specialist modules, each responsible for a single task. This design makes the system robust, scalable, and easy to maintain.
 
-*(You can replace this with a link to the workflow diagram image we created)*
 
 1.  **User Interface (`app.py`):** A Flask web server listens for commands from the Telegram bot.
 2.  **Orchestrator (`main.py`):** Manages the end-to-end workflow.
