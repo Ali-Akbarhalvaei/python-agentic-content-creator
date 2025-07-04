@@ -24,7 +24,7 @@ InstAgent solves this problem by acting as an autonomous creative assistant. It 
 
 ## Sample Output
 
-![Sample Agent Output](output_2025-06-30_12-57-50/post_10_slide_01.png)
+<img src="output_2025-06-30_12-57-50/post_10_slide_01.png" alt="Sample Agent Output" width="480"/>
 ![Sample Agent Output](output_2025-06-30_12-57-50/post_10_slide_02.png)
 ![Sample Agent Output](output_2025-06-30_12-57-50/post_10_slide_03.png)
 ![Sample Agent Output](output_2025-06-30_12-57-50/post_10_slide_04.png)
