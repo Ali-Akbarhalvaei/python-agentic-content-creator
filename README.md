@@ -26,13 +26,17 @@ InstAgent solves this problem by acting as an autonomous creative assistant. It 
 
 <table>
   <tr>
-    <td><img src="output_2025-06-30_12-57-50/post_10_slide_01.png" alt="Branded Headline Slide" width="300"/></td>
-    <td><img src="utput_2025-06-30_12-57-50/post_10_slide_02.png" alt="Symbolic Image Slide" width="300"/></td>
+    <td><img src="output_2025-06-30_12-57-50/post_10_slide_01.png" alt="Branded Headline Slide" width="400"/></td>
+    <td><img src="output_2025-06-30_12-57-50/post_10_slide_02.png" alt="Symbolic Image Slide1" width="400"/></td>
   </tr>
 </table>
 
-<img src="output_2025-06-30_12-57-50/post_10_slide_03.png" alt="Sample Agent Output" width="480"/>
-<img src="output_2025-06-30_12-57-50/post_10_slide_04.png" alt="Sample Agent Output" width="480"/>
+<table>
+  <tr>
+    <td><img src="output_2025-06-30_12-57-50/post_10_slide_03.png" alt="slide 2" width="400"/></td>
+    <td><img src="output_2025-06-30_12-57-50/post_10_slide_04.png" alt=" Slide 3" width="400"/></td>
+  </tr>
+</table>
 
 
 ## System Architecture
