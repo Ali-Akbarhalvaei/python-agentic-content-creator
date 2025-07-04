@@ -21,6 +21,15 @@ InstAgent solves this problem by acting as an autonomous creative assistant. It 
 * **Branded Visuals:** Programmatically creates a consistent, branded headline slide and adds clean text overlays to all subsequent images.
 * **Complete Content Packages:** The final output is delivered directly to the user's Telegram chat and saved locally in a neatly organized, timestamped folder.
 
+
+## Sample Output
+
+![Sample Agent Output](output_2025-06-30_12-57-50/post_10_caption.txt)
+![Sample Agent Output](output_2025-06-30_12-57-50/post_10_slide_01.png)
+![Sample Agent Output](output_2025-06-30_12-57-50/post_10_slide_02.png)
+![Sample Agent Output](output_2025-06-30_12-57-50/post_10_slide_03.png)
+![Sample Agent Output](output_2025-06-30_12-57-50/post_10_slide_04.png)
+
 ## System Architecture
 
 InstAgent is built with a modular, layered architecture. A central **Orchestrator** (`main.py`) directs a team of specialist modules, each responsible for a single task. This design makes the system robust, scalable, and easy to maintain.
